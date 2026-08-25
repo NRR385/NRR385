@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Rohith Reddy Nemtoor**
-- GitHub: [@NRR385](https://github.com/NRR385)
-- LinkedIn: [Rohith Reddy Nemtoor](https://www.linkedin.com/in/rohithreddynemtoor)
-- Email: rohithreddyn2005@gmail.com
+- GitHub: [@NRR385](https://github.com/NRR385) - LinkedIn: [Rohith Reddy Nemtoor](https://www.linkedin.com/in/rohithreddynemtoor) - Email: rohithreddyn2005@gmail.com
