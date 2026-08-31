@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohith%20Reddy%20Nemtoor-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithreddynemtoor/)
-[![Gmail](https://img.shields.io/badge/Email-rohithreddyn2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohithreddyn2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rohithreddyn2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohithreddyn2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NRR385-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NRR385)
 
 </div>
@@ -54,8 +54,8 @@ An experimental ML platform for financial forecasting using candlestick patterns
 
 - Built Ridge Regression models with engineered features including RSI and VROC
 - Developed multi-day forecasting and trading-signal experiments
-- Built a Streamlit dashboard for market data, visualization, and automated Buy/Sell/Hold analysis
-- Focused on balancing forecast performance with model explainability
+- Built a Streamlit dashboard for market data, visualization, and Buy/Sell/Hold analysis
+- Focused on model experimentation, feature engineering, and interpretability
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-Trading--Strategy-blue?style=flat-square&logo=github)](https://github.com/NRR385/Trading-strategy-with-candelstick-pattern-using-Machine-Learning)
 
@@ -63,7 +63,7 @@ An experimental ML platform for financial forecasting using candlestick patterns
 
 ### 🛒 Multilingual Mandi — AI-Powered Market Assistant
 
-**`React` · `Node.js` · `Express` · `AI APIs`**
+**`React` · `Vite` · `Node.js` · `Express` · `AI APIs`**
 
 A full-stack AI application for multilingual market communication, price discovery, and negotiation assistance.
 
@@ -85,9 +85,9 @@ An experimental interactive game exploring machine-learning concepts through gam
 
 ---
 
-## 🌍 Open Source Journey
+## 🌍 Open Source
 
-I'm actively building my open-source experience by contributing to projects outside my own repositories and learning how real-world collaborative development works.
+I'm actively contributing to open-source projects and learning how real-world software is developed, reviewed, tested, and maintained collaboratively.
 
 ### 🎮 QuickPlayZone — Cyber Highway Crosser
 
@@ -98,23 +98,33 @@ Contributed to **QuickPlayZone**, an open-source retro game collection.
 - 🎮 EASY / MEDIUM / HARD difficulty modes
 - ⌨️ Keyboard and mobile controls
 - 🏆 Local score and leaderboard integration
-- 🚦 Traffic difficulty and scoring changes
-- 🧪 Local testing, build checks, and ESLint validation
+- 🚦 Traffic difficulty and scoring adjustments
+- 🧪 Local testing and build validation
 
-**Pull Request:** [Feat/highway crosser #53](https://github.com/shamilahmdt/quickplay-zone/pull/53)
+**Pull Request:**  
+[![View Pull Request](https://img.shields.io/badge/View%20Merged%20Pull%20Request-%2353-6f42c1?style=flat-square&logo=github)](https://github.com/shamilahmdt/quickplay-zone/pull/53)
 
-This contribution helped me practice working inside an existing codebase, using branches and pull requests, responding to CI checks, and collaborating with a repository maintainer.
+**Status:** ✅ Merged
+
+This contribution gave me hands-on experience with:
+
+- Working inside an existing codebase
+- Git branching and pull-request workflows
+- Collaborating with a repository maintainer
+- Responding to CI/build checks
+- Making changes that fit an existing project's structure
 
 ---
 
-### 🔧 What I'm Learning Through Open Source
+## 🔧 What I'm Learning Through Open Source
 
-- Working with unfamiliar codebases
-- Git branching and pull-request workflows
-- Code review and maintainer feedback
-- Debugging CI/build issues
-- Writing changes that fit an existing project's conventions
-- Collaborating with developers beyond my own projects
+- Understanding unfamiliar codebases
+- Writing maintainable contributions
+- Git and GitHub collaboration workflows
+- Pull requests and code review
+- Debugging build and CI issues
+- Working with maintainers and other developers
+- Contributing consistently to projects beyond my own repositories
 
 ---
 
@@ -135,11 +145,13 @@ This contribution helped me practice working inside an existing codebase, using 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NRR385&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NRR385&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=60a5fa&icon_color=f97316&text_color=e2e8f0&bg_color=0d1117" />
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRR385&layout=compact&theme=github_dark&hide_border=true&title_color=60a5fa&text_color=e2e8f0&bg_color=0d1117&langs_count=6" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -156,11 +168,12 @@ I'm interested in **software engineering, AI/ML, cloud systems, open source, int
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithreddynemtoor/)
+
 [![Email](https://img.shields.io/badge/Reach%20Out-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithreddyn2005@gmail.com)
 
 <br/><br/>
 
-*Code. Build. Learn. Repeat.*
+**Code. Build. Learn. Repeat.**
 
 <br/>
 
