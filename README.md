@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=680&lines=Building+scalable%2C+data-driven+solutions;Python+%7C+TypeScript+%7C+React+%7C+AWS;Serverless+systems%2C+ML+experiments%2C+and+full-stack+apps;Open+to+internships+and+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=680&lines=Building+scalable%2C+data-driven+solutions;Python+%7C+TypeScript+%7C+React+%7C+AWS;ML+experiments%2C+and+full-stack+apps;Open+to+internships+and+collaboration" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,9 +20,11 @@
 
 ## 👋 Who I Am
 
-I'm a developer from **Hyderabad, India**, building at the intersection of **software engineering, AI/ML, cloud, and real-world problems**.
+I'm a **student developer from Hyderabad, India**, focused on building practical software at the intersection of **software engineering, AI/ML, cloud, and real-world problems**.
 
 I enjoy turning ideas into working products, learning by building, and contributing to open source. My work spans **AI-powered applications, full-stack systems, serverless cloud platforms, and machine-learning experiments**.
+
+I'm continuously improving my engineering skills by **building projects, exploring new technologies, and collaborating through open source**.
 
 > **Build things. Understand how they work. Make them better.**
 
