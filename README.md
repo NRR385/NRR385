@@ -165,7 +165,7 @@ This contribution gave me hands-on experience with:
 
 ## 🤝 Let's Connect
 
-I'm interested in **software engineering, AI/ML, cloud systems, open source, internships, and building useful products**.
+I'm interested in **software engineering, AI/ML, open source, internships, and building useful products**.
 
 <div align="center">
 
