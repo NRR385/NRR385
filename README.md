@@ -79,9 +79,15 @@ A full-stack AI application for multilingual market communication, price discove
 
 ### 🧠 MindMancer — AI Mind Reading Game
 
-**`Python` · `Machine Learning`**
+**`Python` · `TypeScript` · `Node.js` · `FastAPI` · `MongoDB` · `Machine Learning`**
 
-An experimental interactive game exploring machine-learning concepts through gameplay.
+An adaptive 20 Questions-style character guessing game combining Decision Tree ML with a deterministic Weighted Evidence Engine.
+
+- 🎯 Adaptive question selection
+- 🤔 Supports fuzzy answers like Probably and Don't Know
+- 🧠 Decision Tree-based question guidance
+- 📚 Learns new characters through user teaching
+- 🗄️ Persistent MongoDB knowledge base
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-MindMancer-blue?style=flat-square&logo=github)](https://github.com/NRR385/MindMancer)
 
@@ -94,39 +100,11 @@ I'm actively contributing to open-source projects and learning how real-world so
 ### 🎮 QuickPlayZone — Cyber Highway Crosser
 
 Contributed to **QuickPlayZone**, an open-source retro game collection.
+**Contribution:** Added the **Cyber Highway Crosser** arcade game and implemented various gameplay features.
 
-**Contribution:** Added the **Cyber Highway Crosser** arcade game and implemented gameplay features including:
+- 🔀 [PR #53 — Game contribution](https://github.com/shamilahmdt/quickplay-zone/pull/53)
+- 📝 [PR #54 — README contribution](https://github.com/shamilahmdt/quickplay-zone/pull/54)
 
-- 🎮 EASY / MEDIUM / HARD difficulty modes
-- ⌨️ Keyboard and mobile controls
-- 🏆 Local score and leaderboard integration
-- 🚦 Traffic difficulty and scoring adjustments
-- 🧪 Local testing and build validation
-
-**Pull Request:**  
-[![View Pull Request](https://img.shields.io/badge/View%20Merged%20Pull%20Request-%2353-6f42c1?style=flat-square&logo=github)](https://github.com/shamilahmdt/quickplay-zone/pull/53)
-
-**Status:** ✅ Merged
-
-This contribution gave me hands-on experience with:
-
-- Working inside an existing codebase
-- Git branching and pull-request workflows
-- Collaborating with a repository maintainer
-- Responding to CI/build checks
-- Making changes that fit an existing project's structure
-
----
-
-## 🔧 What I'm Learning Through Open Source
-
-- Understanding unfamiliar codebases
-- Writing maintainable contributions
-- Git and GitHub collaboration workflows
-- Pull requests and code review
-- Debugging build and CI issues
-- Working with maintainers and other developers
-- Contributing consistently to projects beyond my own repositories
 
 ---
 
