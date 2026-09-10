@@ -135,7 +135,7 @@ Contributed to **QuickPlayZone**, an open-source retro game collection.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NRR385&theme=dark&hide_border=true&background=0d1117&stroke=60a5fa&ring=60a5fa&fire=f97316&currStreakLabel=e2e8f0&sideLabels=e2e8f0)](https://git.io/streak-stats)
+[![GitHub Streak](http://streak-stats.demolab.com/?user=NRR385&theme=dark&utm_source=chatgpt.com)](https://git.io/streak-stats)
 
 </div>
 
