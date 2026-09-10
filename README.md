@@ -125,8 +125,6 @@ Contributed to **QuickPlayZone**, an open-source retro game collection.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NRR385&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=60a5fa&icon_color=f97316&text_color=e2e8f0&bg_color=0d1117" />
-
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRR385&layout=compact&theme=github_dark&hide_border=true&title_color=60a5fa&text_color=e2e8f0&bg_color=0d1117&langs_count=6" />
 
 </div>
