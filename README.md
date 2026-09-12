@@ -153,7 +153,7 @@ I'm interested in **software engineering, AI/ML, open source, internships, and b
 
 <br/><br/>
 
-**Code. Build. Learn. Repeat.**
+**Code. Build. Learn. Repeat. **
 
 <br/>
 
