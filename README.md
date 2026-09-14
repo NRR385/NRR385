@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Cloud%20%7C%20Full-Stack&descAlignY=58&descColor=60a5fa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descColor=60a5fa&animation=fadeIn" />
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=680&lines=Building+scalable%2C+data-driven+solutions;Python+%7C+TypeScript+%7C+React+%7C+AWS;ML+experiments%2C+and+full-stack+apps;Open+to+internships+and+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=680&lines=Building+scalable%2C+data-driven+solutions;Python+%7C+TypeScript+%7C+React;ML+experiments%2C+and+full-stack+apps;Open+to+internships+and+collaboration" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,11 +20,9 @@
 
 ## 👋 Who I Am
 
-I'm a **student developer from Hyderabad, India**, focused on building practical software at the intersection of **software engineering, AI/ML, cloud, and real-world problems**.
+I'm a **student developer from Hyderabad, India** focused on building practical software across **AI/ML, full-stack development and open source to solve real-world problems**.
 
-I enjoy turning ideas into working products, learning by building, and contributing to open source. My work spans **AI-powered applications, full-stack systems, serverless cloud platforms, and machine-learning experiments**.
-
-I'm continuously improving my engineering skills by **building projects, exploring new technologies, and collaborating through open source**.
+I enjoy turning ideas into working products, learning by building, and contributing to real-world projects through open source.
 
 > **Build things. Understand how they work. Make them better.**
 
@@ -36,12 +34,11 @@ I'm continuously improving my engineering skills by **building projects, explori
 
 **`TypeScript` · `Node.js` · `AWS Lambda` · `DynamoDB` · `S3` · `CDK` · `Satellite APIs`**
 
-A cloud-based platform for monitoring crop health and generating automated agricultural advisories.
+An AI-driven platform for monitoring crop health and generating automated agricultural advisories using satellite and weather data.
 
-- Designed serverless AWS infrastructure using CDK
-- Integrated satellite NDVI/EVI and weather data for crop monitoring
-- Built a GDD-based predictive advisory engine
-- Designed automated SMS recommendations for agricultural use cases
+- Integrated **NDVI/EVI satellite data, weather data, and GDD-based prediction** to detect crop stress and generate recommendations.
+- Designed and deployed a **serverless AWS architecture using CDK**, reducing the operational overhead of traditional IoT-based approaches.
+
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-CropTwin-black?style=flat-square&logo=vercel)](https://nrr385.github.io/CropTwin)
 [![View Repo](https://img.shields.io/badge/View%20Repo-CropTwin-blue?style=flat-square&logo=github)](https://github.com/NRR385/CropTwin)
@@ -52,13 +49,11 @@ A cloud-based platform for monitoring crop health and generating automated agric
 
 **`Python` · `Scikit-learn` · `Streamlit` · `Pandas` · `NumPy` · `Yahoo Finance API`**
 
-An experimental ML platform for financial forecasting using candlestick patterns and technical indicators.
+A machine-learning-based trading platform that explores financial forecasting using candlestick patterns and technical indicators.
 
-- Built Ridge Regression models with engineered features including RSI and VROC
-- Developed multi-day forecasting and trading-signal experiments
-- Built a Streamlit dashboard for market data, visualization, and Buy/Sell/Hold analysis
-- Focused on model experimentation, feature engineering, and interpretability
-
+- Built **Ridge Regression models with engineered features such as RSI and VROC** to generate multi-day price forecasts and trading signals.
+- Developed a **Streamlit dashboard** integrating market data, visualizations, and automated Buy/Sell/Hold trend analysis.
+  
 [![View Repo](https://img.shields.io/badge/View%20Repo-Trading--Strategy-blue?style=flat-square&logo=github)](https://github.com/NRR385/Trading-strategy-with-candelstick-pattern-using-Machine-Learning)
 
 ---
@@ -67,11 +62,11 @@ An experimental ML platform for financial forecasting using candlestick patterns
 
 **`React` · `Vite` · `Node.js` · `Express` · `AI APIs`**
 
-A full-stack AI application for multilingual market communication, price discovery, and negotiation assistance.
+A full-stack AI platform designed to help users with **multilingual market communication, price discovery, and negotiation assistance**.
 
-- Built a React/Vite frontend with a Node.js/Express backend
-- Integrated AI-powered pricing insights and multilingual assistance
-- Designed the application to support communication across multiple languages
+- Built a **React/Vite frontend and Node.js/Express backend** for a responsive market-assistance experience.
+- Integrated **AI-powered pricing insights and multilingual assistance supporting 3+ languages**.
+
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-Multilingual--Mandi-blue?style=flat-square&logo=github)](https://github.com/NRR385/Multilingual-Mandi)
 
@@ -79,23 +74,18 @@ A full-stack AI application for multilingual market communication, price discove
 
 ### 🧠 MindMancer — AI Mind Reading Game
 
-**`Python` · `TypeScript` · `Node.js` · `FastAPI` · `MongoDB` · `Machine Learning`**
+**`Python` · `TypeScript` · `FastAPI` · `MongoDB` · `Machine Learning`**
 
-An adaptive 20 Questions-style character guessing game combining Decision Tree ML with a deterministic Weighted Evidence Engine.
+An adaptive **20 Questions-style character guessing game** that combines machine learning with a deterministic weighted evidence engine.
 
-- 🎯 Adaptive question selection
-- 🤔 Supports fuzzy answers like Probably and Don't Know
-- 🧠 Decision Tree-based question guidance
-- 📚 Learns new characters through user teaching
-- 🗄️ Persistent MongoDB knowledge base
+- Uses **Decision Tree guidance and weighted evidence** to adapt questions based on previous answers, including uncertain responses like *Probably* and *Don't Know*.
+- Features a **persistent knowledge base** that allows users to teach the system new characters and expand its knowledge over time.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-MindMancer-blue?style=flat-square&logo=github)](https://github.com/NRR385/MindMancer)
 
 ---
 
 ## 🌍 Open Source
-
-I'm actively contributing to open-source projects and learning how real-world software is developed, reviewed, tested, and maintained collaboratively.
 
 ### 🎮 QuickPlayZone — Cyber Highway Crosser
 
