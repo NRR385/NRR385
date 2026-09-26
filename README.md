@@ -131,7 +131,7 @@ Contributed to **DevToolsHub**, an open-source collection of developer tools.
 
 <div align="center">
 
-[![GitHub Streak](http://streak-stats.demolab.com/?user=NRR385&theme=dark&utm_source=chatgpt.com)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NRR385&theme=dark&starting_year=2026)](https://git.io/streak-stats)
 
 </div>
 
