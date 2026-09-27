@@ -85,22 +85,12 @@ An adaptive **20 Questions-style character guessing game** that combines machine
 
 ---
 
-## 🌍 Open Source
+## 🌍 Open Source Contributions
 
-### 🎮 QuickPlayZone — Cyber Highway Crosser
+* 🎮 **QuickPlayZone — Cyber Highway Crosser** — Added an arcade game and gameplay features. [PR #53](https://github.com/shamilahmdt/quickplay-zone/pull/53) · [PR #54](https://github.com/shamilahmdt/quickplay-zone/pull/54)
+* 🎯 **Combat Arena FPS** — Fixed map collision detection and player spawn points. [PR #4](https://github.com/3MROBOT/combat-arena-fps/pull/4)
+* 🛠️ **DevToolsHub** — Added category filters with dynamic counts, URL synchronization, and Back/Forward support. [PR #140](https://github.com/shabeeltt/devtools-hub/pull/140)
 
-Contributed to **QuickPlayZone**, an open-source retro game collection.
-**Contribution:** Added the **Cyber Highway Crosser** arcade game and implemented various gameplay features. 🔀 [PR #53](https://github.com/shamilahmdt/quickplay-zone/pull/53), 📝 [PR #54](https://github.com/shamilahmdt/quickplay-zone/pull/54)
-
-### 🎯 Combat Arena FPS
-
-Contributed to **Combat Arena FPS**, an open-source multiplayer FPS project.
-**Contribution:** Fixed map collision detection and updated player spawn points for the updated map. 🔀 [PR #4](https://github.com/3MROBOT/combat-arena-fps/pull/4)
-
-### 🛠️ DevToolsHub
-
-Contributed to **DevToolsHub**, an open-source collection of developer tools.
-**Contribution:** Added category filter chips with dynamic counts, URL synchronization, and browser Back/Forward support. 🔀 [PR #140](https://github.com/shabeeltt/devtools-hub/pull/140), 📝 [Issue #138](https://github.com/shabeeltt/devtools-hub/issues/138)
 
 ---
 
