@@ -115,7 +115,7 @@ An adaptive **20 Questions-style character guessing game** that combines machine
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NRR385&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=F97316&text_color=C9D1D9" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NRR385&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9&ring_color=F97316" width="100%" />
 
 </td>
 
