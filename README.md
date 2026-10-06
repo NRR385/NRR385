@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descColor=60a5fa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:312e81&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descColor=93c5fd&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0891b2&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:9a3412,100:ea580c&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descColor=fdba74&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:047857,100:0f766e&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descColor=6ee7b7&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:be185d&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descColor=f0abfc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:7e22ce,100:be123c&height=220&section=header&text=Rohith%20Reddy%20Nemtoor&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descColor=fda4af&animation=fadeIn" />
 
 <br/>
 
