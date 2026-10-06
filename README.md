@@ -111,16 +111,23 @@ An adaptive **20 Questions-style character guessing game** that combines machine
 
 ## 📊 GitHub Activity
 
-<br/>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NRR385&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=F97316&text_color=C9D1D9" width="100%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NRR385&theme=dark&starting_year=2026)](https://git.io/streak-stats)
+</td>
 
-</div>
+<td width="50%" align="center">
 
-<br/>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com/?user=NRR385&theme=dark&starting_year=2026&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=FFFFFF&dates=9CA3AF&background=0D1117&border=30363D" width="100%" />
+</a>
 
+</td>
+</tr>
+</table>
 <div align="center">
 
 <picture>
